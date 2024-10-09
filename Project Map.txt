@@ -1,0 +1,12 @@
+LupinMaster/
+│ 
+├── manifest.json
+├── popup.html
+├── popup.js
+├── links.js             // file for URL extraction
+├── whatsapp.js          // file for WhatsApp Group Member extraction
+├── facebook.js          // file for Facebook Group Member extraction
+├── instagram.js         // file for Instagram Followers extraction
+├── login.js             // file for User Log in Database ( G Sheet )
+├── tracking.js          // file for User Log Database ( G Sheet )
+└── icon.png

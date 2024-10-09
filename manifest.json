@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Lupin Master",
+  "version": "1.0",
+  "description": "Created by Bhikan Deshmukh.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "50": "icon.png"
+  }
+}
