@@ -24,7 +24,7 @@ With LupinMaster, users can easily extract links, gather social media group memb
 - Confirm the installation when prompted.
 
 ### 3. Register for Access
-- After installation, please register using the following Google Form: [Registration Form](LINK_TO_YOUR_GOOGLE_FORM).
+- After installation, please register using the following Google Form: [Registration Form](https://forms.gle/NVEv9CphNvNYcMKF8).
 
 ## How to Use
 1. Click on the **LupinMaster** icon in the Chrome toolbar.
