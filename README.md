@@ -20,7 +20,7 @@ With LupinMaster, users can easily extract links, gather social media group memb
 ### 2. Install the Extension
 - Open Chrome and go to `chrome://extensions/`.
 - Enable **Developer Mode** (toggle switch in the top right corner).
-- Drag and drop the downloaded `.crx` file into the `chrome://extensions/` page.
+- Drag and drop the downloaded `.zip` file into the `chrome://extensions/` page.
 - Confirm the installation when prompted.
 
 ### 3. Register for Access
